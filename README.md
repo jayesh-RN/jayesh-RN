@@ -1,38 +1,269 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Jayesh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=JAYESH%20PANDEY&fontAlign=50&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%2FML&descAlign=50&descAlignY=52&animation=twinkling&fontSize=54&fontColor=ffffff"/>
 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%3E+booting+backend_engine.exe...;%3E+provisioning+cloud+infra+%E2%98%81%EF%B8%8F;%3E+training+neural_nets.py+%F0%9F%A7%A0;%3E+optimizing+distributed_systems...;%3E+deploy+%E2%86%92+scale+%E2%86%92+repeat+%F0%9F%9A%80" />
+</a>
 
+<br/>
 
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%7C%20CLOUD%20%7C%20AI%2FML-00F5D4?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=jayesh-RN&style=for-the-badge&label=PROFILE+VIEWS&color=blueviolet&labelColor=0d1117"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayesh-rn" alt="jayesh-rn" /></a> </p>
+<br/><br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-- 🔭 I’m currently working on **MERN stack project**
+</div>
 
-- 🌱 I’m currently learning **Express and Mongodb**
+---
 
-- 👯 I’m looking to collaborate on **web devlopment and machine learning**
+<!-- ===================== ABOUT ===================== -->
 
-- 💬 Ask me about **Js,react , Django , cpp**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> `whoami`
 
-- 📫 How to reach me **j.r.n.pandey@gmail.com**
+```yaml
+name: Jayesh Pandey
+role: Software Engineer
+location: India
 
-- ⚡ Fun fact **I am all rounder**
+building:
+  - Backend Systems
+  - Cloud Infrastructure
+  - AI/ML Applications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jayesh-pandey-486277230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh pandey" height="30" width="40" /></a>
-</p>
+exploring:
+  - Distributed Systems
+  - Database Internals
+  - System Design
+  - ML Infrastructure
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+philosophy: "Understand the system. Then make it scale."
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayesh-rn&show_icons=true&locale=en&layout=compact" alt="jayesh-rn" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh-rn&show_icons=true&locale=en" alt="jayesh-rn" /></p>
+### ⚡ Backend × Cloud × Distributed Systems × AI
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-rn&" alt="jayesh-rn" /></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90%">
+
+</div>
+
+---
+
+<!-- ===================== ABOUT SCRIPT ===================== -->
+
+## <img src="https://media.giphy.com/media/L0zGpnhZOsSSC/giphy.gif" width="30"> `./about_me.sh`
+
+```text
+┌──(jayesh㉿github)-[~/about]
+└─$ cat engineer.txt
+
+⚙️  Building backend systems with Node.js & TypeScript
+☁️  Working with AWS infrastructure and containerized workloads
+🏗️  Interested in scalable & distributed system architecture
+🧠  Exploring databases, caching, messaging and system internals
+🤖  Building with Computer Vision, VLMs and AI/ML
+🔬  Curious about what happens underneath the abstraction
+
+┌──(jayesh㉿github)-[~/about]
+└─$ _
+```
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> `tech --stack`
+
+<div align="center">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,fastapi&theme=dark&perline=5"/>
+
+<br/><br/>
+
+### 🗄️ Data
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch&theme=dark&perline=4"/>
+
+<br/><br/>
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,git&theme=dark&perline=6"/>
+
+<br/><br/>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=4"/>
+
+</div>
+
+---
+
+<!-- ===================== EXPERIENCE MATRIX ===================== -->
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> `cat /etc/engineering-stack`
+
+```text
+╭──────────────────────┬────────────────────────────────────────────╮
+│ DOMAIN               │ TECHNOLOGIES                               │
+├──────────────────────┼────────────────────────────────────────────┤
+│ Backend              │ Node.js • TypeScript • Fastify • REST      │
+│ Cloud                │ AWS • CDK • ECS • Fargate • ECR • Lambda   │
+│ Infrastructure       │ Docker • CI/CD • Linux • CloudWatch        │
+│ Databases            │ PostgreSQL • MongoDB • Redis               │
+│ Search / Logging     │ Elasticsearch • Logstash • Kibana          │
+│ AI / Computer Vision │ CNN • VLM • YOLO • OpenCV                  │
+│ Video / Streaming    │ HLS • FFmpeg • PyAV • WebSockets           │
+╰──────────────────────┴────────────────────────────────────────────╯
+```
+
+---
+
+<!-- ===================== ARCHITECTURE FLOW ===================== -->
+
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB2Rb2X/giphy.gif" width="30"> `cat journey.graph`
+
+```mermaid
+flowchart LR
+    A["⚙️ Backend"] --> B["🗄️ Data"]
+    B --> C["🧩 Distributed Systems"]
+    C --> D["☁️ Cloud"]
+    D --> E["🤖 AI Infrastructure"]
+    E --> F["🚀 Production Systems"]
+
+    style A fill:#0d1117,stroke:#00F5D4,color:#fff
+    style B fill:#0d1117,stroke:#00F5D4,color:#fff
+    style C fill:#0d1117,stroke:#00F5D4,color:#fff
+    style D fill:#0d1117,stroke:#00F5D4,color:#fff
+    style E fill:#0d1117,stroke:#00F5D4,color:#fff
+    style F fill:#0d1117,stroke:#00F5D4,color:#fff
+```
+
+<div align="center">
+
+> *I'm interested in the point where software engineering, distributed infrastructure and machine learning collide.*
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> `ps aux | grep learning`
+
+```text
+PID      PROCESS                     STATUS
+──────────────────────────────────────────────
+1337     System Design               ███████████████████░
+2048     Distributed Systems         ██████████████████░░
+4096     Database Engineering        █████████████████░░░
+8192     Cloud Architecture          ███████████████████░
+16384    ML Infrastructure           ███████████████░░░░░
+```
+
+---
+
+<!-- ===================== STATS ===================== -->
+
+## <img src="https://media.giphy.com/media/xUOxfjsW3Wp6gzQULK/giphy.gif" width="30"> `github --stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayesh-RN&show_icons=true&hide_border=true&count_private=true&theme=radical&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-RN&hide_border=true&theme=radical&background=0d1117&ring=00F5D4&fire=00F5D4"/>
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-RN&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00F5D4"/>
+
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+## <img src="https://media.giphy.com/media/artj92oXVrMMB6ZVAg/giphy.gif" width="30"> `github --achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jayesh-RN&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> `git log --visualize`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh-RN&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00F5D4&line=00F5D4&point=ffffff"/>
+
+</div>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+
+## `./consume_contributions.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jayesh-RN/jayesh-RN/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- ===================== RANDOM DEV QUOTE ===================== -->
+
+<div align="center">
+
+### `while (alive) { learn(); build(); improve(); }`
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## `./connect.sh`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jayesh-pandey-486277230/">
+<img src="https://img.shields.io/badge/LinkedIn-Jayesh_Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:j.r.n.pandey@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jayesh-RN">
+<img src="https://img.shields.io/badge/GitHub-jayesh--RN-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=00F5D4&center=true&vCenter=true&repeat=true&width=700&lines=Thanks+for+visiting+%3A%29;Now+go+build+something+awesome.;See+you+in+the+commit+history+%F0%9F%91%8B"/>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer&animation=twinkling"/>
